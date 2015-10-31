@@ -1,0 +1,35 @@
+#colorInput, #getColor, #randomColor {
+  height: 30px;
+  width: 29vw;
+  vertical-align: middle;
+
+}
+
+.box {
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	margin: 5px;
+	border: 1px solid;
+  border-radius: 10px;
+}
+
+#firstContainer, #secondContainer, #thirdContainer {
+  width: 90vw;
+  min-height: 50px;
+  margin: 2px;
+  border: 1px solid;
+  border-radius: 10px;
+}
+
+#secondContainer {
+  border: 2px solid red;firstcontainer
+}
+
+#thirdContainer {
+  border: 3px solid blue;
+}
+
+.selected {
+  border: 3px solid red;
+}
